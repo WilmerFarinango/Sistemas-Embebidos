@@ -1,10 +1,4 @@
-/*
-   UNIVERSIDAD TECNICA DEL NORTE
-          FICA-CITEL
-       SISTEMAS EMBEBIDOS
-       CHRISTIAN VILLEGAS
-    Knn con 40 datos de prueba
-*/
+
 #include "datos.h"
 #include "prueba.h"
 
